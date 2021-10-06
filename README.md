@@ -22,7 +22,7 @@ install.packages("countrycode")
 To install the latest development version, you can use the remotes package:
 
 library(remotes)
-install_github('vincentarelbundock/countrycode')
+library(countrycode)
 
 Supported codes
 
